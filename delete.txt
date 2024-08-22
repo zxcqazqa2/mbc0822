@@ -1,0 +1,5 @@
+1. 삭제버튼을 누름
+2. controller파일에 delete 라우터 동작
+3. service파일에 delete메서드 생성
+4. repository파일에 delete메서드 생성
+5. dbms에 삭제와 관련된 sql문을 전달..
